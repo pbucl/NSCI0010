@@ -1,22 +1,3 @@
-# Welcome to NSCI0010 Computing
+# Introduction
 
-In this 10 week course you will undertake a series of workshops in which you will apply Python in various scientific applications.
-
-:::{note}
-There is no credit for this module but it will appear on your transcript
-:::
-
-Here is some example code:
-
-```
-import math
-
-x = 4
-y = 5
-z = math.exp(x) * y
-print(z)
-```
-
-It calculates the following:
-
-$z = e^{x}y$
+In this course you will undertake a series of workshops in which you will learn how to use Python to investigate various scientific applications.
